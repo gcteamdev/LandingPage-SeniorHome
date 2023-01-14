@@ -5,10 +5,12 @@
 .bodyHeader{
     margin-top: 5%;
     color:darkgreen;
-    font-size:30px;
+    font-size:40px;
     position:absolute;
     left:5%;
     margin-bottom: 10%;
+    font-family: yeseva-one !important;;
+    
 }
 .livingTypes{
     position:absolute;
