@@ -1,3 +1,42 @@
 .bannerPage {
-    background-color: "#OD4A31";
+  height: 600px;
+  width: 100%;
+  color: antiquewhite;
+  background-color: #19573d;
+  top: 0;
+  display: flex;
+  flex-direction: row;
+  font-family: yeseva-one !important;
+}
+h1 {
+  font-weight: bolder !important;
+  font-size: 60px !important;
+}
+.bg {
+  width: 45%;
+  z-index: 9;
+  position: absolute;
+  left: 55%;
+  top: 0%;
+}
+.contact-btn {
+  font-weight: 600 !important;
+  font-size: 40px !important;
+}
+.bannerPic {
+  width: 100%;
+  height: 100%;
+}
+.quality {
+  position: absolute;
+  width: 10%;
+  left:40%;
+  top:75.0%
+
+}
+.review {
+  position: absolute;
+  width: 8%;
+  top:80%;
+  left:30%;
 }

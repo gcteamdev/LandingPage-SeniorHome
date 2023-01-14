@@ -1,0 +1,25 @@
+.footerInfoSection{
+    height:100vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 10%;
+    background-image: url("../assets/Vector 26.png");
+    background-repeat: no-repeat;
+    background-size: 105%;
+    background-color: #19573d;
+
+}
+.schedule{
+    color:antiquewhite
+}
+span{
+    color:black;
+}
+form{
+    margin-top: 20%;
+}
+.footer{
+    background-color: #19573de4!important;
+    color:white !important;
+}
