@@ -9,7 +9,7 @@ function footer() {
     <div className="footerOuter">
           <div className="footerInfoSection d-flex">
       <div>
-        <img src={advocate} alt="advocate" />
+        <img  className="advocate"src={advocate} alt="advocate" />
       </div>
       <div>
         <h2 className="schedule">
@@ -46,7 +46,7 @@ function footer() {
     <MDBFooter bgColor='light' className='text-center text-lg-left footer'>
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
         &copy; {new Date().getFullYear()} Copyright:{' '}
-        <a className='text-dark' href='https://gcteam.dev'>
+        <a className='text-white' href='https://gcteam.dev'>
           Hamza Dev
         </a>
       </div>
