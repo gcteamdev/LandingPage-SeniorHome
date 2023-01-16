@@ -10,7 +10,7 @@ import cardPic4 from '../assets/outdoor.jpeg';
 function body() {
   return (
     <div className="pageBody">
-      <h2 className="bodyHeader ">Horizon Daily Living</h2>
+      <h2 className="bodyHeader ">Horizon In Daily Living</h2>
       <div className="livingTypes">
       <button type="button" className="btn btn-outline-success bg-success text-white">Independent Living</button>
       <button type="button" className="btn btn-outline-light text-dark">Assisted Living</button>
