@@ -8,7 +8,7 @@ import Media from './components/Media';
 function App() {
   return (
     <div className="App">
-      <Navbar />
+     <Navbar />
      <Banner />
      <Body /> 
      <Media />
