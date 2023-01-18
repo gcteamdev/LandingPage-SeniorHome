@@ -2,10 +2,10 @@ import React from 'react';
 import './Body.css';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import cardPic1 from '../assets/g3.jpg';
-import cardPic2 from '../assets/istockphoto-1190632382-612x612.jpg';
-import cardPic3 from '../assets/g2.jpg';
-import cardPic4 from '../assets/outdoor.jpeg';
+import cardPic1 from '../assets/bg.png';
+import cardPic2 from '../assets/bg.png';
+import cardPic3 from '../assets/bg.png';
+import cardPic4 from '../assets/bg.png';
 
 function body() {
   return (

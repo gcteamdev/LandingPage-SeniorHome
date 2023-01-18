@@ -2,7 +2,7 @@ import React from 'react';
 import './Banner.css';
 import bg from '../assets/bg.png';
 import stickers from '../assets/Group 320.png';
-import group from "../assets/b1.jpg";
+import group from "../assets/bg.png";
 import quality from"../assets/Group 331.png";
 import review from "../assets/Group 332.png";
 
